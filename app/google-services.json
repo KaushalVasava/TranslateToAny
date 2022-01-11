@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588042858676",
+    "project_id": "translatetoany-e7740",
+    "storage_bucket": "translatetoany-e7740.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588042858676:android:5199d9516eea51ffa927e1",
+        "android_client_info": {
+          "package_name": "com.lahsuak.translatetoany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588042858676-mlndelqitf7v8rvgun6lcludm7pdisr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfSBYJlxnHwJsiGAkm6rF4kCuOXqW_k5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588042858676-mlndelqitf7v8rvgun6lcludm7pdisr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
